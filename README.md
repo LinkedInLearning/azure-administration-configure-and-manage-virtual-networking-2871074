@@ -1,9 +1,9 @@
-# COURSENAME
-This is the repository for the LinkedIn Learning course `course-name`. The full course is available from [LinkedIn Learning][lil-course-url].
+# Azure Administration: Configure and Manage Virtual Networking
+This is the repository for the LinkedIn Learning course Azure Administration: Configure and Manage Virtual Networking. The full course is available from [LinkedIn Learning][lil-course-url].
 
-![course-name-alt-text][lil-thumbnail-url] 
+![Azure Administration: Configure and Manage Virtual Networking][lil-thumbnail-url] 
+Learn how to configure and manage virtual networks on Azure. Virtual networks (VNets) connect your virtual machines and other resources, forming the foundation you need to run cloud-based applications. This course provides hands-on coverage of the essential tasks for implementing and managing VNets using either the Azure portal or PowerShell, for quick, command-line control. Instructor Sharon Bennett covers configuring public IP addresses, network interfaces, peering, and Azure DNS. Plus, learn how to create network security groups. This demo-heavy course can also be used as a resource in preparation for the Microsoft Azure Administrator exam (AZ-104).
 
-_See the readme file in the main branch for updated instructions and information._
 ## Instructions
 This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
 
@@ -17,9 +17,14 @@ Some branches will have a beginning and an end state. These are marked with the 
 2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
 3. [Course-specific instructions]
 
+### Instructor
 
-[0]: # (Replace these placeholder URLs with actual course URLs)
+**Sharon Bennett**
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+_Staff Author at LinkedIn focusing on Microsoft Azure and Office 365_
+
+Check out some of my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/sharon-bennett).
+
+[lil-course-url]: https://www.linkedin.com/learning/azure-administration-configure-and-manage-virtual-networking
+[lil-thumbnail-url]: https://cdn.lynda.com/course/2871074/2871074-1605653605467-16x9.jpg
 
